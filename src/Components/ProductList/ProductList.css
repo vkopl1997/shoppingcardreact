@@ -1,0 +1,23 @@
+.productlistflex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.seconddiv{
+    width: 46%;
+    
+}
+img{
+    border-radius: 15px;
+    border: 2px solid #00296b;
+}
+.productitem{
+    border-radius: 15px;
+    border: 2px solid #00296b;
+    background-color: #e9ecef;
+    padding: 30px;
+    margin: 10px;   
+}
+.productitem:hover{
+    background-color: #ced4da;
+}
